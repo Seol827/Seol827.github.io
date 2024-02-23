@@ -1,0 +1,1 @@
+import{_ as e,q as t,s as c,x as o}from"./entry.522c0e01.js";const r={},a={class:"text-white w-full h-40 bg-opacity-10"};function i(n,_){return t(),c("div",a,"ㅁㅔ인입니다~")}const d=e(r,[["render",i]]),f={},l={class:"w-full"};function m(n,_){const s=d;return t(),c("div",l,[o(s)])}const x=e(f,[["render",m]]);export{x as default};
