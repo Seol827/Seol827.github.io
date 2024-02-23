@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "MS-CEINTL.vscode-language-pack-ko",
+    "PKief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss"
+  ]
+}
